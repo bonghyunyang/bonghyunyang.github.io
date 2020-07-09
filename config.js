@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://bonghyunyang.github.io/',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by 봉현양',
+  subtitle: '1일 1커밋을 위한 일일기록',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,11 +25,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Blog by 봉현양',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: '1일 1커밋을 위한 일일기록',
     contacts: {
-      email: '',
+      email: 'bonghyunyang2@gmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
