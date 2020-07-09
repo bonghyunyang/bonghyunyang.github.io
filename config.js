@@ -4,10 +4,11 @@ module.exports = {
   url: 'https://bonghyunyang.github.io/',
   title: 'Blog by 봉현양',
   subtitle: '1일 1커밋을 위한 일일기록',
-  copyright: '',
-  disqusShortname: 'github-io-12',
-  postsPerPage: 6,
+  copyright: '© All rights reserved.',
+  disqusShortname: '',
+  postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
+  useKatex: false,
   menu: [
     {
       label: 'Articles',
